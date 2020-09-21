@@ -1,8 +1,9 @@
 
-body{
-    background-color: #aaaaaa;
-}
 
+
+body {
+  background-color: rgb(88, 82, 82);
+}
 
 .add-button {
   text-align: center;
@@ -11,13 +12,11 @@ body{
   position: absolute;
   left: 50%;
   top: 50%;
-  width: 12em;
-  font-weight: bold;
+  width: 10em;
   font-family: sans-serif;
   letter-spacing: 0.1em;
-  line-height: 3em;
-  overflow: hidden;
-  z-index: 1;
-  transition: 0.5s;
-  margin: 1em;
+  line-height: 10em;
+  margin: 3em;
+  transform: translate(-50%, -50%);
 }
+
