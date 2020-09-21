@@ -1,0 +1,23 @@
+
+body{
+    background-color: #aaaaaa;
+}
+
+
+.add-button {
+  text-align: center;
+  font-size: 20px;
+  border-radius: 10px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 12em;
+  font-weight: bold;
+  font-family: sans-serif;
+  letter-spacing: 0.1em;
+  line-height: 3em;
+  overflow: hidden;
+  z-index: 1;
+  transition: 0.5s;
+  margin: 1em;
+}
